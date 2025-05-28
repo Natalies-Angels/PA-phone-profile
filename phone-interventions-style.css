@@ -5295,6 +5295,242 @@ tools for long-term change — so harm doesn’t repeat. */
   font-weight: 400;
 }
 
+/* PA-icon-logo-white */
+.paiconlo-3fb99f79b95f > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.paiconlo-3fb99f79b95f {
+  position: absolute;
+  left: 19px;
+  top: 17px;
+  width: 14px;
+  height: 14px;
+}
+
+/* svg-path */
+.svgpath-3fb99f79da78 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(0px,0px);
+}
+.svgpath-3fb99f79da78 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 14px;
+  height: 14px;
+}
+
+/* base-background */
+.basebackg-3fb99f79da77 > svg {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  transform: translate(1.8189894035458565e-12px,0px);
+}
+.basebackg-3fb99f79da77 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 14px;
+  height: 14px;
+  border-radius: 0px 0px 0px 0px;
+  display: none;
+}
+
+/* back home */
+.back-home-3fb99f79b95e {
+  position: absolute;
+  left: 1190.51px;
+  top: 56.23px;
+  width: 98px;
+  height: 24px;
+}
+.back-home-3fb99f79b95e .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.back-home-3fb99f79b95e .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.back-home-3fb99f79b95e .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.back-home-3fb99f79b95e .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 20px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Andika";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Rectangle */
+.rectangle-3fb99f79b95d {
+  position: absolute;
+  left: 1164.51px;
+  top: 48.23px;
+  width: 150px;
+  height: 40px;
+  background: #dba330FF;
+  border-radius: 10px 10px 10px 10px;
+}
+
+/* Group */
+.group-3fba730717a0 {
+  position: absolute;
+  left: 296px;
+  top: 14px;
+  width: 50px;
+  height: 20px;
+}
+
+/* back home */
+.back-home-3fb9d05e437e {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  width: 40px;
+  height: 10px;
+}
+.back-home-3fb9d05e437e .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.back-home-3fb9d05e437e .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.back-home-3fb9d05e437e .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.back-home-3fb9d05e437e .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 8px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Andika";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Rectangle */
+.rectangle-3fb9d05e437d {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 50px;
+  height: 20px;
+  background: #dba330FF;
+  border-radius: 10px 10px 10px 10px;
+}
+
+/* Group */
+.group-3fbaed51e09c {
+  position: absolute;
+  left: 29px;
+  top: 3738px;
+  width: 50px;
+  height: 20px;
+}
+
+/* back 2 top */
+.back-2-top-3fbaed51e09e {
+  position: absolute;
+  left: 5px;
+  top: 5px;
+  width: 39px;
+  height: 10px;
+}
+.back-2-top-3fbaed51e09e .root-0 {
+  
+  
+  display: flex;
+  white-space: break-spaces;
+  align-items: flex-start;
+}
+.back-2-top-3fbaed51e09e .root-0-paragraph-set-0 {
+  display: inline-flex;
+  flex-direction: column;
+  justify-content: inherit;
+  
+  margin-right: 1px;
+  vertical-align: top;
+}
+.back-2-top-3fbaed51e09e .root-0-paragraph-set-0-paragraph-0 {
+  font-size: 0;
+  line-height: 1.2;
+  margin: 0;
+  text-align: left;
+}
+.back-2-top-3fbaed51e09e .root-0-paragraph-set-0-paragraph-0-text-0 {
+  color: rgba(0, 0, 0, 1);
+  text-transform: none;
+  
+  line-break: auto;
+  overflow-wrap: initial;
+  white-space: pre;
+  font-size: 8px;
+  text-rendering: geometricPrecision;
+  caret-color: rgba(0, 0, 0, 1);
+  text-decoration: none;
+  letter-spacing: 0px;
+  font-family: "Andika";
+  font-style: normal;
+  font-weight: 400;
+}
+
+/* Rectangle */
+.rectangle-3fbaed51e09d {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 50px;
+  height: 20px;
+  background: #dba330FF;
+  border-radius: 10px 10px 10px 10px;
+}
+
 /* intervention-bg */
 .interventi-3f3c9d6dfbab {
   position: absolute;
